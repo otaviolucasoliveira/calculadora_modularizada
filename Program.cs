@@ -24,7 +24,7 @@ namespace Calculadora
 
             Console.WriteLine("\nO resultado da soma é " + resultado);
             Console.ReadKey(); //espera o usuario digitar uma tecla para sair do console
-            Menu(); //chama a função menu após novamente após completar a operação
+            Menu(); //chama a função menu novamente após completar a operação
 
 
         }
